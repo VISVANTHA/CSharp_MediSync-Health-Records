@@ -1,0 +1,5 @@
+{
+  "hits": "coverage-hits.txt",
+  "sources": ["**/*.cs"],
+  "tests": ["tests/**/*.cs"]
+}
