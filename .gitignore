@@ -1,0 +1,5 @@
+bin/
+obj/
+tool-output/*
+!tool-output/.gitkeep
+.vs/
