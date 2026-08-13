@@ -1,0 +1,7 @@
+{
+  "stryker-config": {
+    "project": "*.csproj",
+    "test-projects": [],
+    "reporters": ["progress", "html", "json"]
+  }
+}
